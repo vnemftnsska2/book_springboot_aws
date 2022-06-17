@@ -1,0 +1,13 @@
+package com.example.book_springboot_aws;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BookSpringbootAwsApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(BookSpringbootAwsApplication.class, args);
+    }
+
+}
